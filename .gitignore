@@ -1,3 +1,11 @@
+.vscode
+.eide
+.clang-format
+.eide.usr.ctx.json
+my_c51.code-workspace
+my_c51.uvgui.21901
+
+
 # Prerequisites
 *.d
 

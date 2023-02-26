@@ -1,0 +1,2 @@
+".\build\Target 1\main.o" TO ".\build\Target 1\my_c51"
+PRINT(".\build\Target 1\my_c51.map") REMOVEUNUSED
